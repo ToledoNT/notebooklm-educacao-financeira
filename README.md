@@ -2,7 +2,7 @@
 
 ## Sobre o Projeto
 
-Este repositório foi desenvolvido como parte de uma atividade prática de um **Bootcamp promovido pela DIO (Digital Innovation One) em parceria com o Bradesco**.
+Este repositório foi desenvolvido como parte de uma atividade prática de um **Bootcamp promovido pela DIO em parceria com o Bradesco - GenAI, Dados & Cyber**.
 
 A proposta do desafio consiste em utilizar ferramentas de Inteligência Artificial para pesquisa, organização do conhecimento e aprendizagem ativa, aplicando conceitos de curadoria de conteúdo através da construção de um **Caderno Temático no NotebookLM**.
 
